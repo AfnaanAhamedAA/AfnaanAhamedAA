@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AfnaanAhamedAA
+- Graduate Engineer.
 - 👀 I’m interested in Web develpment and Software deavelopment.
-- 🌱 I’m currently learning Full stck development.
+- 🌱 I’m currently learning Full stack development.
 - 📫 How to reach me - at my email-afnaanahamedaa@gmail.com
 
 <!---
